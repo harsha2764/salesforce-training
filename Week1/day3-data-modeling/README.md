@@ -160,17 +160,6 @@ Student
 Attendance
 ```
 
----
-
-# Diagram/Image Section
-
-(Add your Salesforce schema builder screenshot or draw.io diagram here)
-
-Example:
-
-![College Data Model](screenshots/college-data-model.png)
-
----
 
 # Formula Fields
 
