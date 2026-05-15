@@ -155,14 +155,3 @@ Benefits:
 - Faster communication
 - Better reporting
 
----
-
-# Conclusion
-
-In this task, I learned:
-- Basics of Salesforce Platform
-- Difference between App, Object, and Tab
-- Difference between Configuration and Coding
-- How Salesforce applications are designed
-
-This helped me understand the foundation of Salesforce application development.
