@@ -116,14 +116,4 @@ Example Scenario:
 - The sales manager from the company is stored as a Contact.
 - The software purchase deal is stored as an Opportunity.
 
----
-
-## Conclusion
-
-In this task, I learned:
-- What CRM is
-- Why Salesforce is used
-- Basic Salesforce objects
-- Real-world business mapping in Salesforce
-
-This helped me understand the fundamentals of Salesforce CRM. 
+ 
