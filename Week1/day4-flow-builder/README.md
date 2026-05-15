@@ -128,18 +128,6 @@ Send Welcome Email
 Assign Academic Advisor
 ```
 
----
-
-# Diagram/Image Section
-
-(Add your Flow Builder screenshot or draw.io diagram here)
-
-Example:
-
-![Flow Diagram](screenshots/flow-diagram.png)
-
----
-
 # Manual vs Automated Process
 
 | Manual Process | Automated Process |
